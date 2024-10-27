@@ -1,1 +1,2 @@
 # Job-Scheduling-Algorithm-
+The primary aim of this project is to design and implement a job scheduling application that employs the First-Come, First-Served (FCFS) algorithm to process jobs based on their arrival times. By integrating the Merge Sort algorithm for efficient sorting, the application enhances user experience through a graphical user interface (GUI) built using Tkinter. Additionally, the application provides visual feedback on job performance using Matplotlib, making the results easy to interpret.
